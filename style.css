@@ -18,15 +18,25 @@ h1{
     cursor: pointer;
 }
 
+.img2{
+    width: 30px;
+}
+
+#hpimg{
+    padding-right: 15px;
+    width: 35px;
+    
+}
+
 .dropdown-content{
-    list-style-type: circle; 
+    list-style-type: none; 
     display: none;
     position: absolute;
     box-shadow: 0px 8px 5px 0px rgba(11, 11, 100, 0.4);
     padding:  50px;
     margin-left: 70px;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 30px;
+    font-size: 40px;
     z-index: 1;
 }
 
